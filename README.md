@@ -1,24 +1,24 @@
-# LeetCode SQL Practice 🚀
+# LeetCode SQL Practice 
 
 Welcome to my SQL learning journey!
 
 This repository contains my solutions to SQL problems from LeetCode, written using MySQL.
 
-## 🎯 Objectives
+## Objectives
 
 - Improve SQL problem-solving skills.
 - Practise database queries regularly.
 - Prepare for technical interviews and internships.
 - Track my progress in SQL.
 
-## 🛠️ Technologies
+## Technologies
 
 - SQL
 - MySQL
 - LeetCode
 - GitHub
 
-## 📚 Topics Covered
+## Topics Covered
 
 - SELECT and WHERE
 - JOINs
@@ -27,14 +27,14 @@ This repository contains my solutions to SQL problems from LeetCode, written usi
 - Subqueries
 - NULL Handling
 
-## 📈 Progress
+## Progress
 
 I have solved 26 SQL problems on LeetCode and am gradually uploading my solutions to this repository.
 
-## 👨‍💻 About Me
+## About Me
 
 I am an Information Science and Engineering student building my SQL skills through consistent practice.
 
 ---
 
-**Learning one query at a time! 💻**
+**Learning one query at a time! **
